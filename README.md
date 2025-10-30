@@ -16,7 +16,7 @@ Data-Analytics-Assignment-4/
 ├── README.md        
 ├── RULES.md
 └── DA IA/                     
-    ├── DA_IA_4.ipynb
+    ├── DA_IA_4.ipynb                    <-- Main Project
     ├── activity_summary_statistics.csv
     ├── mHealth_subject1.log
     ├── mHealth_subject10.log
