@@ -11,14 +11,14 @@ It includes data cleaning, feature engineering, statistical testing, and visual 
 ```
 mHealth-Analysis/
 │
-├── mHealth_subject1.log          # Subject 1 data
-├── mHealth_subject2.log          # Subject 2 data
-├── ...                            # (10 files total)
-├── mHealth_subject10.log         # Subject 10 data
+├── mHealth_subject1.log         
+├── mHealth_subject2.log         
+├── ...                          
+├── mHealth_subject10.log        
 │
-├── analysis_notebook.ipynb       # Main analysis notebook
+├── analysis_notebook.ipynb       
 │
-└── outputs/                      # Generated outputs
+└── outputs/                      
     ├── activity_summary_statistics.csv
     ├── pairwise_comparisons.csv
     ├── mhealth_cleaned_data.csv
