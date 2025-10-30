@@ -1,0 +1,15 @@
+,chest_acc_magnitude,chest_acc_magnitude,chest_acc_magnitude,chest_acc_magnitude,chest_acc_magnitude,ankle_acc_magnitude,ankle_acc_magnitude,heart_rate_estimate,heart_rate_estimate
+,count,mean,std,min,max,mean,std,mean,std
+activity_name,,,,,,,,,
+Climbing stairs,29487,9.778,2.099,3.119,20.066,10.423,2.801,90.951,11.934
+Cycling,30657,9.6,1.257,1.754,21.278,10.234,2.021,84.295,2.909
+Frontal elevation of arms,27004,9.798,0.327,6.984,12.281,9.844,0.121,88.305,6.05
+Jogging,7685,8.305,6.942,0.259,27.908,13.096,4.113,94.639,11.391
+Jump front & back,3458,5.259,6.055,0.195,28.816,9.14,4.391,94.844,9.481
+Knees bending,29106,9.584,2.013,1.227,21.514,10.012,0.61,94.989,11.657
+Lying down,3072,9.681,0.117,9.249,10.238,9.76,0.1,87.236,0.0
+Running,2833,9.235,7.142,0.549,28.005,14.074,4.022,106.159,26.728
+Sitting and relaxing,30720,9.749,0.178,8.484,12.47,9.906,0.147,80.37,4.108
+Standing still,30720,9.764,0.157,8.555,10.993,9.857,0.111,82.634,5.702
+Waist bends forward,27143,9.461,1.182,4.826,14.409,9.853,0.255,88.942,6.574
+Walking,23934,9.604,2.16,2.558,17.728,11.216,3.321,82.681,3.891

@@ -1,0 +1,11 @@
+Comparison,Mean Diff,p-value,Significance
+Walking vs Jogging,1.29884877238384,1.270623057637901e-140,Significant (Bonferroni)
+Walking vs Running,0.3697728187599427,1.809078598073931e-09,Significant (Bonferroni)
+Walking vs Sitting and relaxing,-0.14469461771420455,1.5683740151655253e-31,Significant (Bonferroni)
+Walking vs Cycling,0.003896833158901103,0.7919517365463186,Not significant
+Jogging vs Running,-0.9290759536238973,1.575621023547127e-09,Significant (Bonferroni)
+Jogging vs Sitting and relaxing,-1.4435433900980446,2.901793310836693e-285,Significant (Bonferroni)
+Jogging vs Cycling,-1.294951939224939,1.0682498651487185e-204,Significant (Bonferroni)
+Running vs Sitting and relaxing,-0.5144674364741473,3.09367831624199e-36,Significant (Bonferroni)
+Running vs Cycling,-0.3658759856010416,8.540071075909618e-15,Significant (Bonferroni)
+Sitting and relaxing vs Cycling,0.14859145087310566,3.7017986993127673e-93,Significant (Bonferroni)
