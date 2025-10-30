@@ -1,6 +1,6 @@
 # 🩺 mHealth Analysis Project
 
-## 📘 Overview
+## Overview
 This project analyzes **multi-subject wearable sensor data** from mHealth logs to explore how **physical activity levels** affect **acceleration** and **heart rate**.  
 It includes data cleaning, feature engineering, statistical testing, and visual analytics.
 
@@ -192,7 +192,7 @@ F = MS_between / MS_within
 
 ---
 
-## 📊 Results Interpretation
+## Results Interpretation
 
 ### Expected Findings
 
