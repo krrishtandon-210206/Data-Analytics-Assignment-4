@@ -1,5 +1,14 @@
+# 🩺 mHealth Analysis Project
+
+## 📘 Overview
+This project analyzes **multi-subject wearable sensor data** from mHealth logs to explore how **physical activity levels** affect **acceleration** and **heart rate**.  
+It includes data cleaning, feature engineering, statistical testing, and visual analytics.
+
+---
+
 ## 📁 Project Structure
 
+```
 mHealth-Analysis/
 │
 ├── mHealth_subject1.log          # Subject 1 data
@@ -21,10 +30,10 @@ mHealth-Analysis/
         ├── anova_results.png
         └── subject_variation_heatmap.png
 
-
+```
 ---
 
-## 🚀 Usage Instructions
+##  Usage Instructions
 
 ### Step-by-Step Execution
 
@@ -251,22 +260,3 @@ Running > Jogging > Walking > Cycling > Sitting
 - *Heatmaps*: Reveal patterns across subjects and activities
 
 ---
-
-## 🔧 Troubleshooting
-
-### Common Issues and Solutions
-
-#### Issue 1: Files Not Found
-
-Error: FileNotFoundError: mHealth_subject1.log
-
-
-*Solution*:
-1. Verify files are uploaded to Colab/notebook directory
-2. Check file names match exactly: mHealth_subject1.log (not mhealth_subject1.log)
-3. Ensure files use .log extension
-4. Try listing files: !ls (Colab) or check file explorer
-
-#### Issue 2: Import Errors
-```
-Error: ModuleNotFoundError: No module named 'seaborn'
