@@ -9,27 +9,28 @@ It includes data cleaning, feature engineering, statistical testing, and visual 
 ## 📁 Project Structure
 
 ```
-mHealth-Analysis/
+Data-Analytics-Assignment-4/
 │
-├── mHealth_subject1.log         
-├── mHealth_subject2.log         
-├── ...                          
-├── mHealth_subject10.log        
-│
-├── analysis_notebook.ipynb       
-│
-└── outputs/                      
+├── CONTRIBUTORS.md        
+├── LICENSE                              
+├── README.md        
+├── RULES.md
+└── DA IA/                     
+    ├── DA_IA_4.ipynb
     ├── activity_summary_statistics.csv
+    ├── mHealth_subject1.log
+    ├── mHealth_subject10.log
+    ├── mHealth_subject2.log
+    ├── mHealth_subject3.log
+    ├── mHealth_subject4.log
+    ├── mHealth_subject5.log
+    ├── mHealth_subject6.log
+    ├── mHealth_subject7.log
+    ├── mHealth_subject8.log
+    ├── mHealth_subject9.log
     ├── pairwise_comparisons.csv
-    ├── mhealth_cleaned_data.csv
-    └── figures/
-        ├── activity_distribution.png
-        ├── acceleration_boxplots.png
-        ├── heart_rate_comparison.png
-        ├── correlation_heatmap.png
-        ├── anova_results.png
-        └── subject_variation_heatmap.png
-
+    └─── .ipynb_checkpoints
+        ├── Untitled0-checkpoint.ipynb
 ```
 ---
 
