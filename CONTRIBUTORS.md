@@ -7,7 +7,7 @@ This project, **UCI mHealth Dataset**, was created as a college assignment.
 - **Aayush Kumar Singh** – 240953146
 - **Krrish Tandon** – 240953666
 - **Zaid Akhtar** – 240953XXX
-- **Sai Harshith Reddy** – 240953XXX
+- **Sai Harshith Reddy** – 240953498
 
 ## License
 This project is licensed under the [MIT License](./LICENSE).
